@@ -1,1 +1,2 @@
-Boilerplate React App
+# DrinkUp
+drinking game
